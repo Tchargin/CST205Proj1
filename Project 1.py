@@ -30,4 +30,4 @@ for x in range(495):
 # Displaying picture
 Picture.show()
 
-# Github link: 
+# Github link: https://github.com/Tchargin/CST205Proj1/blob/master/Project%201.py
